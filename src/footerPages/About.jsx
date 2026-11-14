@@ -1,0 +1,20 @@
+export default function Aboutus() {
+return(
+    <div className="min-h-screen bg-white text-gray-800 font-sans pb-16">
+        <h2 className="text-lg md:text-xl font-semibold tracking-wide text-center mt-8">ABOUT US</h2>
+        <div>
+            <h2 className="text-lg md:text-xl font-semibold tracking-wide text-center mt-8">CREATIVE DIRECTOR</h2>
+            <div className="text-sm text-black text-center leading-relaxed space-y-4 max-w-3xl mx-auto px-6 mt-5">
+                <p>Hussain Rehar has built a career in fashion by following his own set of rules.The secret of his success is the unique and unusual styling and attention to detail,he gives to each design. Hussasin Rehar established his namesake label in August 23rd 2017 upon graduating the Fashion degree from Pakistan Institute of Fashion and Design. The brand is renowned for its strong identity and unbridled creativity. The young designer has made an entry bringing the individuality with a touch of bold. The indefinable characteristics of the label are a result of certain unique and
+                uncommonly brilliant perspective.</p>
+                <p>Focusing on the ability to combine his unique handcrafted skill and aesthetic influence with high fashion sensibility, Rehar continues to offer fashion through broad spectrum accessibility. From exotic Elegance and Bold Wild Print Glamour to the Red Carpet Drama, Hussain Rehar is adored by everyone in the industry. Since two years Rehar has already made his mark in the industry by launching over 10 Collections including resorts, formal and semi-formals along with 2 Bridal Collections. The brand continues to grow in other lines of fashion and will launch a western line soon. The vision of the brand is to empower the women of Pakistan. The boldness of the garments gives a style statement which is garish and reflects the traditional aspects of Pakistan in a modern way. Following year Hussain Rehar was also nominated in Pakistan two significant award shows, the Lux Style Awards and the Hum Style Awards as Rising Talent of the year. Rehar has no doubt won the hearts of the nation by his impeccable skills in no time. </p>
+                <h2 className="text-lg md:text-xl font-semibold tracking-wide text-center mt-8">BRAND HISTORY</h2>
+                <p>Fashion has a value that constructs your desired style in a distinctive way. The lavish apparels we create are rejuvenated through sparkling genre that attracts modish women to give it a try. This Brand's assignment is to deliver what their customers fantasies. This brand enters a new era as we will look upon Hussain Rehar why his brand is undoubtedly one of the biggest brand in Pakistan fashion industry. Hussain Rehar made his fortune in fashion world when he took the lead in designing the most extravaganza labels that reflects his creativity and vision.</p>
+                <p>Hussain pioneered a platform which he constructed by merging his artisanship and scale of exotic elegance to grasp the attention of fashion world. The archive of Hussain Rehar consists of  resorts, formal and semi-formals along with two Bridal Collections. The brand started boosting it's fame and it has already expanded it's web in other fashion dimensions. Hussain Rehar will eventually ratify his piece of art in western style clothing and it will give a chance to endorse delicate vogue. Hussain Rehar was also nominated in Pakistan two significant award shows, the Lux Style Awards and the Hum Style Awards as the shining Star of fashion industry. Hussain Rehar’s originality can be witnessed through his expertise that can be seen in his divergent canvas. The insight visual modality of Hussain Rehar was inspired by cultural alluring and women empowerment which was infused in his wardrobe gallery.</p>
+            </div>
+        </div>
+    </div>
+    
+)
+    
+}
