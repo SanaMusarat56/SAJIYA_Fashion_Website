@@ -1,6 +1,6 @@
 import product1 from "../assets/images/Products/PretSS26/Afsun1.webp";
 import product2 from "../assets/images/Products/PretSS26/Dilara1.webp";
-import product3 from "../assets/images/Products/PretSS26/Gulesurk1.webp"; 
+import product3 from "../assets/images/Products/PretSS26/GuleSurk1.webp"; 
 import product4 from "../assets/images/Products/PretSS26/Meshki1.webp";
 import product5 from "../assets/images/Products/PretSS26/Neroli1.webp";
 import product6 from "../assets/images/Products/PretSS26/NooreQamar1.webp";
@@ -23,7 +23,7 @@ export const products = [
     },
     {
         id: 3,
-        name: "Gulesurk",
+        name: "GuleSurk",
         price: 39999,
         image: product3,
     },
