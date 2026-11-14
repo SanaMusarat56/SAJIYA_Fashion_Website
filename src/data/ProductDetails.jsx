@@ -11,10 +11,10 @@ import Dilara3 from "../assets/images/Products/PretSS26/Dilara3.webp";
 import Dilara4 from "../assets/images/Products/PretSS26/Dilara4.webp";
 
 import GuleSurk1 from "../assets/images/Products/PretSS26/GuleSurk1.webp";
-import Gulesurkh2 from "../assets/images/Products/PretSS26/Gulesurkh2.webp";
-import Gulesurkh3 from "../assets/images/Products/PretSS26/Gulesurkh3.webp";
-import Gulesurkh4 from "../assets/images/Products/PretSS26/Gulesurkh4.webp";
-import Gulesurkh5 from "../assets/images/Products/PretSS26/Gulesurkh5.webp";
+import GuleSurk2 from "../assets/images/Products/PretSS26/GuleSurk2.webp";
+import GuleSurk3 from "../assets/images/Products/PretSS26/GuleSurk3.webp";
+import GuleSurk4 from "../assets/images/Products/PretSS26/GuleSurk4.webp";
+import GuleSurk5 from "../assets/images/Products/PretSS26/GuleSurk5.webp";
 
 import Meshki1 from "../assets/images/Products/PretSS26/Meshki1.webp";
 import Meshki2 from "../assets/images/Products/PretSS26/Meshki2.webp";
@@ -86,7 +86,7 @@ export const ProductDetails =[
         id:3,
         name:"GuleSurkh",
         price:"23,900.00",
-        images:[GuleSurk1,Gulesurkh2,Gulesurkh3,Gulesurkh4,Gulesurkh5,],
+        images:[GuleSurk1,GuleSurk2,GuleSurk3,GuleSurk4,GuleSurk5],
         sizes:["XS","S","M","L"],
          color:"Lilac",
         fabricDetails:[
